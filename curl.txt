@@ -1,3 +1,7 @@
+INPUT
+babicki@ui01:~>curl -request GET 'http://simplebits.com'
+
+OUTPUT
 <!DOCTYPE html>
 <html lang="en">
 <head>
